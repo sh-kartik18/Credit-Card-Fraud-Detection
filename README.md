@@ -5,4 +5,4 @@ In this project I have applied machine learning (ML) modeling skills by using tw
 
 Snap ML is a high-performance IBM library for ML modeling. It provides highly-efficient CPU/GPU implementations of linear models and tree-based models. Snap ML not only accelerates ML algorithms through system awareness, but it also offers novel ML algorithms with best-in-class accuracy
 
-This is a Kaggle dataset. You can find this "Credit Card Fraud Detection" dataset from the following link: <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud"
+This is a Kaggle dataset. You can find this "Credit Card Fraud Detection" dataset from the following link: "https://www.kaggle.com/mlg-ulb/creditcardfraud"
