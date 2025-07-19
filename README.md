@@ -62,7 +62,7 @@ To replicate the project, follow these steps:
 
 1.  **Clone the repository.**
     ```bash
-    git clone <>
+    git clone <https://github.com/sh-kartik18/Credit-Card-Fraud-Detection>
     ```
 
 2.  **Download the dataset** from the Kaggle link above and place `creditcard.csv` in the root project directory.
