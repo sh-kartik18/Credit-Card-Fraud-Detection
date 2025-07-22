@@ -1,5 +1,15 @@
 # Credit Card Fraud Detection using Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3.13.5-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-purple?logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)
+![LightGBM](https://img.shields.io/badge/LightGBM-Gradient%20Boosting-brightgreen?logo=lightgbm)
+![Imbalanced-learn](https://img.shields.io/badge/Imbalanced--learn-SMOTE-red)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-blue?logo=seaborn)
+![Anomaly Detection](https://img.shields.io/badge/Fraud%20Detection-Anomaly%20Modeling-critical)
+![ROC AUC](https://img.shields.io/badge/Metric-ROC%20AUC-success)
+
 This project demonstrates a complete machine learning workflow to detect fraudulent credit card transactions from a highly imbalanced dataset. It explores various techniques including data preprocessing, handling class imbalance with SMOTE, and hyperparameter tuning with `RandomizedSearchCV` to build a high-performance `LightGBM` classification model.
 
 ---
